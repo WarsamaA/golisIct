@@ -11,10 +11,11 @@ body {
     margin: 0 auto;
     transform: translateY(50%);
 }
-.khaanad img {
-    border-radius: 100%;
+.img-contaner img {
     margin: auto;
-    width: 80%;
+    width: 100%;
+}
+.img-contaner {
 }
 p{
     font-size: 30px;
